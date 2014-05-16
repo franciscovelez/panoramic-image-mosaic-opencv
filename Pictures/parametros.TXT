@@ -1,0 +1,3 @@
+Street 800
+Coches 1200
+Puente 1200
