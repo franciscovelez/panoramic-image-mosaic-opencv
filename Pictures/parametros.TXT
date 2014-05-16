@@ -1,3 +1,6 @@
-Street 800
-Coches 1200
-Puente 1200
+Scaling factor for the examples:
+--------------------------------
+
+Street  800
+Cars   1200
+Bridge 1200
