@@ -29,7 +29,7 @@ Results
 Notes
 -----
 
-All documentation (in spanish) available on: https://github.com/franciscovelez/panoramic-image-mosaic-opencv/blob/master/Documentation%20and%20How%20to%20use.pdf
+All documentation (in spanish) available on: https://github.com/franciscovelez/panoramic-image-mosaic-opencv/raw/master/Documentation%20and%20How%20to%20use.pdf
 
 Thanks to Chaman Singh Verma and Mon-Ju for the pictures available on: http://pages.cs.wisc.edu/~csverma/CS766_09/ImageMosaic/DataSet/
 
